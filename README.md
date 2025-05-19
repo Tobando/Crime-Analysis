@@ -32,6 +32,20 @@ Using public data from [dataMontgomery](https://data.montgomerycountymd.gov), th
 - Andresen (2016) — *Place-Based Crime Analysis*
 - Cohn & Rotton (2000) — *Temporal Crime Patterns*
 
+##  Reproducibility
+
+To run the analysis:
+
+```bash
+# 1. Clone the repo
+git clone https://github.com/yourusername/montgomery-crime-analysis.git
+cd montgomery-crime-analysis
+
+# 2. Install dependencies
+pip install -r requirements.txt
+
+# 3. Open notebooks or run scripts in /notebooks
+
 
 
 
